@@ -1,0 +1,23 @@
+:root{
+  --dark: #090909;
+  --light: #ffffff;
+  --azul: #225e9d;
+  --sombra: 0px 2px 10px #00000071;
+}
+
+body{
+  overflow-x: hidden;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+a{
+  text-decoration: none;
+  color: inherit;
+}
+
+
